@@ -1,0 +1,5 @@
+project = "project name"
+region = "asia-south1"
+instance_type = "db-f1-micro"
+disk_size = "10" 
+replica_size = "5"
